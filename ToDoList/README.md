@@ -1,3 +1,14 @@
+# 📝 To-Do List App
+
+A clean, modern, and fully functional To-Do List application built with HTML, CSS, and Vanilla JavaScript. This app helps you keep track of your daily tasks and saves your data locally in the browser so you never lose your progress!
+
+## 🎨 Preview
+
+![To-Do List App Preview](preview.png)
+
+## ✨ Features
+
+*   **Add Tasks:** Easily add new tasks to your list.
 *   **Mark as Complete:** Check off completed tasks (features a custom checkbox and strikethrough styling).
 *   **Delete Tasks:** Remove tasks you no longer need with a single click.
 *   **Data Persistence:** Utilizes browser **Local Storage** to save your to-do list. Your tasks will remain even if you refresh the page or close the browser.
