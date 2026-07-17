@@ -34,10 +34,10 @@ Since this is a vanilla frontend project, no special installation, dependencies,
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/random-password-generator.git
+   git clone https://github.com/Idhaiis/Web-Development/tree/main/RandomPasswordGenerator.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd random-password-generator
+   cd RandomPasswordGenerator
    ```
 3. Open the `index.html` file directly in your preferred web browser to start using the generator.
