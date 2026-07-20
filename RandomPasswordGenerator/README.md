@@ -2,6 +2,8 @@
 
 A simple, elegant, and interactive Random Password Generator built with HTML, CSS, and vanilla JavaScript. This tool allows users to quickly generate secure random passwords with customizable lengths and provides a smooth user experience with visual feedback.
 
+**[🎮 Live Demo: Click here to use the app!](https://idhaiis.github.io/Web-Development/RandomPasswordGenerator)**
+
 ## ✨ Features
 
 * **Customizable Length:** Generate passwords anywhere from **6 to 24 characters** using an intuitive range slider.
