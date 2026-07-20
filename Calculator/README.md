@@ -2,6 +2,8 @@
 
 A clean, responsive, and easy-to-use web-based calculator built with HTML, CSS, and vanilla JavaScript. 
 
+**[🎮 Live Demo: Click here to use the app!](https://idhaiis.github.io/Web-Development/Calculator)**
+
 ## Preview
 ![Calculator Preview](image_9b48b9.png)
 
