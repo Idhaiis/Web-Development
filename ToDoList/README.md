@@ -2,6 +2,8 @@
 
 A clean, modern, and fully functional To-Do List application built with HTML, CSS, and Vanilla JavaScript. This app helps you keep track of your daily tasks and saves your data locally in the browser so you never lose your progress!
 
+**[🎮 Live Demo: Click here to use the app!](https://idhaiis.github.io/Web-Development/ToDoList)**
+
 ## 🎨 Preview
 
 ![To-Do List App Preview](preview.png)
